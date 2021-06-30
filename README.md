@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manvipandey
-- 👀 I’m interested in Software Development(Backend Development, specifically)
-- 🌱 I’m currently learning about MongoDB.
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me : manvi.muskan@gmail.com
 
